@@ -1,0 +1,11 @@
+::placeholder {
+    color: #6c757d; /* Color de texto deseado */
+    font-style: italic; /* Estilo de fuente deseado, por ejemplo, cursiva */
+    font-size: 12px
+  }
+.nav{
+  background-color: #e3f2fd;
+}
+.mi-icono {
+  color: white; /* Cambia "red" al color que desees */
+}
